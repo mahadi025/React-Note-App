@@ -2,9 +2,8 @@
 
 ### Clone or download the repository
 ### Go to the directory
-### Open the terminal or command prompt and type the followings:
+### Open the terminal or command prompt and type the following:
 ```
 $ npm install
 $ npm start
 ```
-Happy Coding!
